@@ -1,0 +1,5 @@
+System.setProperty("webdriver.chrome.driver", "C:\\Vinoth_Imp\\Chrome\\chromedriver_win32\\chromedriver.exe");
+WebDriver driver = new ChromeDriver();
+
+
+?chrome.exe -remote-debugging-port=9014 --user-data-dir="C:\Vinoth_Imp\selenium"
