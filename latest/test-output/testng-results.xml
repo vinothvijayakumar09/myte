@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="72294" started-at="2020-07-21T16:35:24Z" finished-at="2020-07-21T16:36:37Z">
+  <suite name="Default suite" duration-ms="40981" started-at="2020-08-29T10:13:19Z" finished-at="2020-08-29T10:14:00Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="72294" started-at="2020-07-21T16:35:24Z" finished-at="2020-07-21T16:36:37Z">
-      <class name="VinothVijayakumar.Myte">
-        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:VinothVijayakumar.Myte@1ef7fe8e]" name="Test" duration-ms="72259" started-at="2020-07-21T16:35:24Z" finished-at="2020-07-21T16:36:37Z">
+    <test name="Default test" duration-ms="40981" started-at="2020-08-29T10:13:19Z" finished-at="2020-08-29T10:14:00Z">
+      <class name="Myte.MyteFinal">
+        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:Myte.MyteFinal@31610302]" name="Test" duration-ms="40933" started-at="2020-08-29T10:13:19Z" finished-at="2020-08-29T10:14:00Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-      </class> <!-- VinothVijayakumar.Myte -->
-    </test> <!-- Command line test -->
-  </suite> <!-- Command line suite -->
+      </class> <!-- Myte.MyteFinal -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
