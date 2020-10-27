@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="30915" started-at="2020-10-27T07:11:30Z" finished-at="2020-10-27T07:12:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="30915" started-at="2020-10-27T07:11:30Z" finished-at="2020-10-27T07:12:01Z">
+      <class name="Myte.MyteFinal">
+        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:Myte.MyteFinal@16f65612]" name="Test" duration-ms="30877" started-at="2020-10-27T07:11:30Z" finished-at="2020-10-27T07:12:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- Myte.MyteFinal -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
